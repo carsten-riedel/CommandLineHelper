@@ -1,0 +1,7 @@
+
+# ignores everything inside the obj directory
+obj/**
+# ignores everything inside the .vs directory
+.vs/**
+# ignores every file contains secret
+*secret*.*
